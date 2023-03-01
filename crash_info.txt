@@ -1,0 +1,59 @@
+stack:
+00007FF6CA9F54D6 <unknown>
+00007FF6CA9F3E8A <unknown>
+00007FF6CA9F1292 <unknown>
+00007FF6C9DCEDBF <unknown>
+00007FF6C9B9BB35 <unknown>
+00007FF6C9B9C411 <unknown>
+00007FF6CAD1331A <unknown>
+00007FFC8EA87614 <unknown>
+00007FFC8FDC26A1 <unknown>
+session_id:
+Tue_02282023_170657_018172@x64_steam@76561198079518192@CD_08_D1_13_F9_A0_587A
+halt:
+  RELEASE_VHALT
+halt information:
+  hitch detected: mainloop world controller state character:signin {{!29!}} job fiber:{{}}{{[0xeec040b4]}}{{!0x0083a000!}} phase:{{}}{{[0x806ab34a]}}{{!1!}} iteration:0x11cd stalled 
+fatal error detected, current status was:
+    init: init.txt
+    version: v500_rc.main tiger_final release pc_x64 113394.23.02.16.1423.v500_rc.main 23.02.16 1423
+    session_id: Tue_02282023_170657_018172@x64_steam@76561198079518192@CD_08_D1_13_F9_A0_587A
+    GPU Device: NVIDIA GeForce RTX 3090
+    GPU VendorId: 4318
+    GPU DeviceId: 8708
+    GPU SubSysId: 343740638
+    GPU Revision: 161
+    silo_id: 1665943537081276416
+    signon_server_reported_content_version: 113394.113394-0
+    authority-over-current-bubble: false - map slice set 'HASH(0x811c9dc5)':-1, activity slice set -1
+    world_controller previous_state: bootflow:rejoin_activity
+    world_controller state: character:signin
+    world_controller state_reason: normal_flow
+    environment_string: D2_ProdRetail:1942
+    install type: 5
+    change-world: loaded orbit_d3.orbit_new
+    game_instance: D54ED4DD507F8680
+    game_tick: time 58
+    game_is_playback: false
+    activity-slice-set-index: 0
+    map-slice-set-index: 0
+    in-public-bubble: false
+    NVIDIA-Aftermath-DeviceStatus: [00000000] : active
+    NVIDIA-Aftermath-GetData: call failed: bad00000
+    suspected_blocked_thread_id: 0x00001164
+    system_milliseconds: time 802965
+    is_current_bubble_authority: false
+    pc_platform: steam
+    pc_platform_ui: unknown
+    pc_windows_version: Windows 10
+    language_system: english
+    language_ui: english
+    language_audio: english
+    language_current: english
+    crash_folder_location: C:\Users\zackf\AppData\Local\Temp\Destiny 2\crash_folder\crash_folder_18172_20230228_170755\
+    primary_bap_server_ip_address: 172.97.56.84
+    primary_bap_server_port: 7501
+    world_controller state_status: character:signin
+    player_position_x: unknown
+    player_position_y: unknown
+    player_position_z: unknown
